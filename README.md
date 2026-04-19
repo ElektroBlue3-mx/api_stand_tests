@@ -30,3 +30,10 @@ Si quieres subir directamente a la rama principal (main/master):
 git checkout main
 git merge nombre-de-la-rama
 git push origin main
+
+EXTRAER CODIGO DESDE GITHUB
+
+git pull origin nombre-de-la-rama
+origin → es el nombre por defecto del repositorio remoto en GitHub.
+
+nombre-de-la-rama → la rama de la que quieres traer los cambios (por ejemplo main o develop).
